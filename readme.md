@@ -8,7 +8,7 @@
 ## 📄 About Me
 
 - 🎓 **Master of Computer Applications (MCA) Student**
-- 📜 **Certified :** Completed the *100 Days of Code: The Complete Python Pro Bootcamp* by Dr. Angela Yu (Udemy).
+- 📜 **Certified ** Completed the *100 Days of Code: The Complete Python Pro Bootcamp* by Dr. Angela Yu (Udemy).
 - 💻 **Python Developer** focused on writing clean, readable, and highly accurate logic structures.
 - 🎯 **Data Structures & Algorithms** practitioner dedicated to systematic problem-solving routines.
 
@@ -16,11 +16,8 @@
 
 ## 💻 Tech Stack & Tools
 
-### Programming Languages & Databases
-
-| | | |
-| :--- | :--- | :--- |
-| <img src="https://shields.io" /> | <img src="https://shields.io" /> | <img src="https://shields.io" /> |
+### Languages & Databases
+`Python` • `SQL` • `PostgreSQL`
 
 ### Backend & Core Software Development Skills
 - **Web Development & APIs:** REST APIs, Flask (Basic Foundations)
