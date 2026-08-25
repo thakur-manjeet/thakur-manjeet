@@ -39,4 +39,4 @@ I use this workspace to document my technical training and code accurate Python 
 ## 🎯 Professional Links
 
 - 💼 **LinkedIn:** [Insert your LinkedIn URL here]
-- 🎯 **LeetCode:** [Insert your LeetCode URL here]
+- 🎯 **LeetCode:** [https://leetcode.com/u/Manjeet_Thakur]
